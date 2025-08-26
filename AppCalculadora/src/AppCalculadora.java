@@ -7,5 +7,11 @@ public class AppCalculadora {
         //Teste multiplicação
         System.out.println("Multiplicação: " + calculadora.multiplicacao(10, 5));
         
+
+        //Teste da soma 
+        System.out.println("Soma: "+calculadora.soma(5,5));
+
+        //Teste da subtração
+        System.out.println("Subtração: "+calculadora.subtracao(5, 5));
     }
 }
